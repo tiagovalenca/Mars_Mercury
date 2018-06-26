@@ -1,4 +1,4 @@
-#Códigos utilizados na base e dentro do MARS, para controle das mensagens recebidas.
+# Códigos utilizados na base e dentro do MARS, para controle das mensagens recebidas.
 
 Os códigos da base permitem à criança escutar os áudios, parar e dar continuidade quando quiser na mensagem e escutar ele novamente com o clique de um botão.
 
